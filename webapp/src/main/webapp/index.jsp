@@ -9,7 +9,7 @@
 .header {
   padding: 80px;
   text-align: center;
-  background: #FF5733;
+  background: #239be9;
   color: white;
 }
 /* Increase the font size of the heading */
@@ -21,7 +21,7 @@
 <body>
 <div class="header">
   <h1>Hello DevOps Family !!!</h1>
-  <p>This Java Web Application Was Deployed Using CI/CD by Denis</p>
+  <p>This Java Web Application Was Deployed Using CI/CD by Denis Souop</p>
 </div>
 </body>
 </html>
