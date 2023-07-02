@@ -21,7 +21,7 @@
 <body>
 <div class="header">
   <h1>Hello JJ Tech Family !!!</h1>
-  <p>This Java Web Application Was Deployed Using CI/CD by Imm-B-Batch denis2</p>
+  <p>This Java Web Application Was Deployed Using CI/CD by Imm-B-Batch denis222</p>
 </div>
 </body>
 </html>
