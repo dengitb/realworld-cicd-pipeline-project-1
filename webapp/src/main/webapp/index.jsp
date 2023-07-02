@@ -20,8 +20,8 @@
 </head>
 <body>
 <div class="header">
-  <h1>Hello JJ Tech Family !!!</h1>
-  <p>This Java Web Application Was Deployed Using CI/CD by Imm-B-Batch denis</p>
+  <h1>Hello DevOps Family !!!</h1>
+  <p>This Java Web Application Was Deployed Using CI/CD by Denis</p>
 </div>
 </body>
 </html>
